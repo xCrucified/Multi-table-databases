@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Multi-table databases", "Multi-table databases\Multi-table databases.sqlproj", "{68B7A220-45BE-4659-A38C-4B9CA7BBD52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B7A220-45BE-4659-A38C-4B9CA7BBD52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B7A220-45BE-4659-A38C-4B9CA7BBD52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B7A220-45BE-4659-A38C-4B9CA7BBD52E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{68B7A220-45BE-4659-A38C-4B9CA7BBD52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B7A220-45BE-4659-A38C-4B9CA7BBD52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B7A220-45BE-4659-A38C-4B9CA7BBD52E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A648CA6-89C4-486B-875A-E1CF820FD8F0}
+	EndGlobalSection
+EndGlobal
